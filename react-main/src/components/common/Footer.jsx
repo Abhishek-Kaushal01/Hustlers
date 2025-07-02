@@ -18,7 +18,7 @@ export default function Footer() {
                   <h1 className="text-white text-uppercase mb-3">HUstler</h1>
                 </Link>
                 <p className="text-white mb-0">
-                Hustlers is a dynamic and user-friendly PG (Paying Guest) rental website designed to connect tenants with verified PG accommodations. 
+                Hustlers – Find Your Perfect Stay, Hustle-Free 
                 </p>
               </div>
             </div>
